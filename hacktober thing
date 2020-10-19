@@ -31,6 +31,10 @@ while True:
       feelings_list.append("angry")
       encouragement_list.append("to sleep it off")
       counter += 1
+    if each_word == sleepy 
+      feelings_list.append("sleepy")
+      encouragement_list.append("get some coffee")
+      counter += 1
 
   if counter == 0:
     
